@@ -1,4 +1,4 @@
-# Here's my sample title
+# Section 3
 
 This is some sample text.
 
