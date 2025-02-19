@@ -1,6 +1,20 @@
 # Dynamics
 
-This is some sample text.
+Now that we have learned a little about momentum and practiced how to solve problems with it, we can continue along our physics journey. 
+
+In the previous section, we defined two quantities: momentum and impulse.  As equations, these are, respectively:
+
+
+$$\vec{p} = m \vec{v}$$
+$$\vec{J} = \Delta\vec{p} = \int_a^b \vec{F}(x) \ dx$$
+
+You may remember from your calculus 1 course (or perhaps you're hearing it for the first time here) that integrating a function gives us the **area underneath that function** between our two limits *a* and *b*.  
+
+
+<video width="600" controls>
+  <source src="../media/videos/integration/2160p60/AreaUnderCurve.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 (DYN_section1)=
 ## Here's my first section
