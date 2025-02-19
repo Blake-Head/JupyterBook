@@ -10,7 +10,11 @@ $$\vec{J} = \Delta\vec{p} = \int_a^b \vec{F}(x) \ dx$$
 
 You may remember from your calculus 1 course (or perhaps you're hearing it for the first time here) that integrating a function gives us the **area underneath that function** between our two limits *a* and *b*.  
 
-https://github.com/Blake-Head/JupyterBook/blob/c8ebc782750a1a11743125049f2e79bc15294576/media/videos/integration/2160p60/AreaUnderCurve.mp4
+
+<video width="600" controls>
+  <source src="../media/videos/integration/2160p60/AreaUnderCurve.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 (DYN_section1)=
 ## Here's my first section
