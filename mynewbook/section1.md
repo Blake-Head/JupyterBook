@@ -1,8 +1,8 @@
-# Section 1
+# Momentum and Impulse
 
 This is some sample text.
 
-(section-label_section1)=
+(MI_section1)=
 ## Here's my first section
 
-Here is a [reference to the intro](intro.md). Here is a reference to [](section-label_section1).
+Here is a [reference to the intro](intro.md). Here is a reference to [](MI_section1).
