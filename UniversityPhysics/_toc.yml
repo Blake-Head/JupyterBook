@@ -6,12 +6,12 @@ root: intro
 parts:
 - caption: Preamble
   chapters:
-  -file: start_here
+  - file: start_here
 - caption: University Physics 1
   numbered: true
   chapters:
-  - file: Physics1/Section1/section1
-  - file: Physics1/Section2/section2
-  - file: Physics1/Section3/section3
-  - file: Physics1/Section4/section4
-  - file: Physics1/Section5/section5
+  - file: Section1/section1
+  - file: Section2/section2
+  - file: Section3/section3
+  - file: Section4/section4
+  - file: Section5/section5
