@@ -1,0 +1,28 @@
+project:
+  type: book
+
+book:
+  title: "University Physics"
+  author: "The Jupyter Book Community"
+  chapters:
+    - intro.qmd
+    - start_here.qmd
+    - section1.qmd
+    - section2.qmd
+    - section3.qmd
+    - section4.qmd
+    - section5.qmd
+
+format:
+  html:
+    toc: true
+    number-sections: true
+    code-fold: true
+
+editor: visual
+
+# Enable extensions
+extensions:
+  - quarto-ext/admonition
+  - quarto-ext/callout
+  - quarto-ext/katex

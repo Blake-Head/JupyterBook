@@ -21,7 +21,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/executablebooks/jupyter-book  # Online location of your book
+  url: https://github.com/Blake-Head/University-Physics/  # Online location of your book
   path_to_book: docs  # Optional path to your book, relative to the repository root
   branch: master  # Which branch of the repository should be used when creating links (optional)
 
@@ -34,6 +34,8 @@ html:
 sphinx:
   config:
     mathjax_path: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  extra_extensions:
+    - sphinx_excercise
 
 parse:
   myst_enable_extensions:
