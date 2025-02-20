@@ -16,7 +16,7 @@ You may remember from your calculus 1 course (or perhaps you're hearing it for t
 
 <p align="center">
 <img 
-src="output.gif"
+src="impulse_integration.gif"
 alt="visual representation of simple integration"
 width=600px>
 </p>
