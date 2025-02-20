@@ -13,9 +13,10 @@ $$\vec{J} = \Delta\vec{p} = \int_a^b \vec{F}(x) \ dx$$
 
 
 You may remember from your calculus 1 course (or perhaps you're hearing it for the first time here) that integrating a function gives us the **area underneath that function** between our two limits *a* and *b*.  
+
 <p align="center">
 <img 
-src="../output.gif"
+src="output.gif"
 alt="visual representation of simple integration"
 width=600px>
 </p>
