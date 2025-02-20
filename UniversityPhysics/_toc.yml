@@ -10,8 +10,21 @@ parts:
 - caption: University Physics 1
   numbered: true
   chapters:
-  - file: Section1/section1
-  - file: Section2/section2
-  - file: Section3/section3
-  - file: Section4/section4
-  - file: Section5/section5
+  - file: Momentum_Impulse/section1
+  - file: Dynamics/section2
+  - file: Work_Energy/section3
+  - file: Kinematics/section4
+  - file: Rotation/section5
+- caption: University Physics 2
+  numbered: true
+  chapters:
+  - file: Electrostatics/electrostatics_intro
+  - file: Coulomb/coulomb
+  - file: ElectricField/electric_field
+  - file: Charge_Dist/charge_dist
+  - file: Electric_Potential/potential
+  - file: Gauss/gauss
+  - file: DC_Circuit/dc_circuit
+  - file: Magnetism/magnetism
+  - file: Ampere/amperes
+  - file: AC_Circuit/ac_circuit
